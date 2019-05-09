@@ -90,7 +90,7 @@ void Graph::printWeight() const
     for (int v = 0; v < 6; v++)
     {
         if (weight[v] == 0 || weight[v] == 1000000)
-            std::cout << std::left << std::setw(10) << ' ' << '\t';
+            std::cout << std::left << std::setw(10) << " " << '\t';
         else
             std::cout << '$' << std::left << std::setw(10) << weight[v] << '\t';
     } // end for

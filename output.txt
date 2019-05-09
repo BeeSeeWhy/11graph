@@ -1,0 +1,28 @@
+
+
+Welcome to CS Airlines!
+          |
+\________( )________/
+       o'   'o
+
+
+CS Airlines Adjacency Matrix:
+ 	 SFO	        LAX	        LAS	        PHX	        DEN	        JFK
+SFO	 0         	120       	150       	1000000   	1000000   	500
+LAX	 120       	0         	1000000   	75        	1000000   	350
+LAS	 150       	1000000   	0         	1000000   	250       	1000000
+PHX	 1000000   	75        	1000000   	0         	150       	1000000
+DEN	 1000000   	1000000   	250       	150       	0         	1000000
+JFK	 500       	350       	1000000   	1000000   	1000000   	0
+
+
+Here at CS Airlines, we put you first!
+          |
+\________( )________/
+       o'   'o
+
+
+From SFO, here are the best rates for all our destinations:
+
+ 	 SFO	        LAX	        LAS	        PHX	        DEN	        JFK
+  	          	$120       	$150       	$195       	$345       	$470 
